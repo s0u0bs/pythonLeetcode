@@ -1,5 +1,5 @@
 ## My leetcode solutions
-![](https://img.shields.io/badge/Easy-103-success) ![](https://img.shields.io/badge/Medium-28-important) ![](https://img.shields.io/badge/Total-131-inactive)
+![](https://img.shields.io/badge/Easy-103-success) ![](https://img.shields.io/badge/Medium-29-important) ![](https://img.shields.io/badge/Total-132-inactive)
 <br>
 
 | ID | Problem | Difficulty | Solution |
@@ -129,6 +129,7 @@
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | Easy | [a01678_goal_parser_interpretation.py](solutions/a01678_goal_parser_interpretation.py) |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | Easy | [a01684_count_the_number_of_consistent_strings.py](solutions/a01684_count_the_number_of_consistent_strings.py) |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium | [a01689_partitioning_into_minimum_number_of_deci_binary_numbers.py](solutions/a01689_partitioning_into_minimum_number_of_deci_binary_numbers.py) |
+| 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall) | Medium | [a01706_where_will_the_ball_fall.py](solutions/a01706_where_will_the_ball_fall.py) |
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array) | Easy | [a01720_decode_xored_array.py](solutions/a01720_decode_xored_array.py) |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | Easy | [a01773_count_items_matching_a_rule.py](solutions/a01773_count_items_matching_a_rule.py) |
 
