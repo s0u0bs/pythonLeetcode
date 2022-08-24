@@ -1,5 +1,5 @@
 ## My leetcode solutions
-![](https://img.shields.io/badge/Easy-103-success) ![](https://img.shields.io/badge/Medium-27-important) ![](https://img.shields.io/badge/Total-130-inactive)
+![](https://img.shields.io/badge/Easy-103-success) ![](https://img.shields.io/badge/Medium-28-important) ![](https://img.shields.io/badge/Total-131-inactive)
 <br>
 
 | ID | Problem | Difficulty | Solution |
@@ -18,6 +18,7 @@
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium | [a00036_valid_sudoku.py](solutions/a00036_valid_sudoku.py) |
 | 46 | [Permutations](https://leetcode.com/problems/permutations) | Medium | [a00046_permutations.py](solutions/a00046_permutations.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy | [a00053_maximum_subarray.py](solutions/a00053_maximum_subarray.py) |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | [a00054_spiral_matrix.py](solutions/a00054_spiral_matrix.py) |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | Medium | [a00059_spiral_matrix_ii.py](solutions/a00059_spiral_matrix_ii.py) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | [a00069_sqrtx.py](solutions/a00069_sqrtx.py) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Medium | [a00074_search_a_2d_matrix.py](solutions/a00074_search_a_2d_matrix.py) |
